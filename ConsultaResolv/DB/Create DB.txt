@@ -1,0 +1,45 @@
+﻿USE [consultaresolv]
+GO
+
+CREATE TABLE [dbo].[consulta](
+	[id] [int] IDENTITY(0,1) NOT NULL,
+	[cpf] [varchar](11) NULL,
+	[datanascimento] [datetime] NULL,
+ CONSTRAINT [pk_consulta] PRIMARY KEY NONCLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+
+CREATE TABLE [dbo].[pessoa](
+	[id] [int] IDENTITY(0,1) NOT NULL,
+	[cpf] [varchar](11) NULL,
+	[nome] [varchar](100) NULL,
+	[situacao] [varchar](100) NULL,
+	[datanascimento] [datetime] NULL,
+	[datainscricao] [datetime] NULL,
+	[datahora] [datetime] NULL,
+	[comprovante] [varchar](50) NULL,
+	[status] [int] NULL,
+	[message] [varchar](100) NULL,
+	[fonte] [int] NULL,
+	[dataprocessamento] [datetime] NULL,
+ CONSTRAINT [pk_pessoa] PRIMARY KEY NONCLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+CREATE TABLE [dbo].[error](
+	[id] [int] IDENTITY(0,1) NOT NULL,
+	[cpf] [varchar](11) NULL,
+	[datanascimento] [datetime] NULL,
+	[code] [int] NULL,
+	[message] [varchar](100) NULL,
+	[dataprocessamento] [datetime] NULL,
+ CONSTRAINT [pk_error] PRIMARY KEY NONCLUSTERED 
+(
+	[id] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]

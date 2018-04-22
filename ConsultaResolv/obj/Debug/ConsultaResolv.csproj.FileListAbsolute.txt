@@ -1,0 +1,14 @@
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\ConsultaResolv.exe.config
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\ConsultaResolv.exe
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\ConsultaResolv.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\obj\Debug\ConsultaResolv.csprojResolveAssemblyReference.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\obj\Debug\ConsultaResolv.csproj.CoreCompileInputs.cache
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\obj\Debug\ConsultaResolv.exe
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\obj\Debug\ConsultaResolv.pdb
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\Dapper.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\EntityFramework.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\Dapper.xml
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\EntityFramework.xml
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hygor de Lima\Documents\Visual Studio 2017\Projects\ConsultaResolv\ConsultaResolv\obj\Debug\ConsultaResolv.csproj.CopyComplete
